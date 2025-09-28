@@ -26,7 +26,7 @@ This analysis uses datasets from Copernicus Marine Service and algorithms from B
 
 Find an online Demo of the TRIX Eutrophication Indicator for the Baltic Sea. To have a light version running online this demo uses only **Surface** data.
 
-- 🌎 [EcoSea EO Online Demo 🔗](https://kepler.gl/demo/map/foursquare?path=https://data-api.foursquare.com/v1/maps/529f942e-1f65-4852-9be0-f1b06233679a) Press ▶️ and interact!
+- 🌎 [EcoSea EO Online Demo 🔗](https://gis4-wildlife.github.io/EcoSeaEO) Press ▶️ and interact!
 - 💻 [Code 🔗](https://github.com/gis4-wildlife/EcoSeaEO) Available also in Blue Cloud Vlab!
 
 ![demo-ecosea](png/demo-trix-ecosea.gif) 
