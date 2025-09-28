@@ -1,4 +1,4 @@
-![eu](png\ecosea_banner.png)
+![eu](png/ecosea_banner.png)
 
 # 🌎**EcoSea EO**
 ## *Monitoring Eutrophication Impacts from Wastewater in the Baltic Sea*
@@ -29,7 +29,7 @@ Find an online Demo of the TRIX Eutrophication Indicator for the Baltic Sea. To 
 - 🌎 [EcoSea EO Online Demo 🔗](https://kepler.gl/demo/map/foursquare?path=https://data-api.foursquare.com/v1/maps/529f942e-1f65-4852-9be0-f1b06233679a) Press ▶️ and interact!
 - 💻 [Code 🔗](https://github.com/gis4-wildlife/EcoSeaEO) Available also in Blue Cloud Vlab!
 
-![demo-ecosea](png\demo-trix-ecosea.gif) 
+![demo-ecosea](png/demo-trix-ecosea.gif) 
 
 ## *Content*
 
@@ -63,12 +63,12 @@ The outputs are generated in the folders as next:
 - ``index.html``: Map animation with TRIX seasonality
 
 ### TRIX Seasonality for 2024
-![trix](png\TRIX_seasonality_BalticSea_2024.png)
+![trix](png/TRIX_seasonality_BalticSea_2024.png)
 
 ### Trix and biogeochemistry variables
 
-![biogeochem](png\TRIX_Eutrophication_BalticSea_202403.png)
-![biogeochem](png\Variables_Biogeochem_BalticSea_202403.png)
+![biogeochem](png/TRIX_Eutrophication_BalticSea_202403.png)
+![biogeochem](png/Variables_Biogeochem_BalticSea_202403.png)
 
 
 ## *Authors*
