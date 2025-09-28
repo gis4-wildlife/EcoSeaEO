@@ -49,7 +49,13 @@ Find the ecogeographical layers for this notebook in the folder ``Data``. The di
 
 ## *How to run*
 
-Simply, run all cells of this notebook. Be sure that you have all the data loaded in the data folders as explained above. Then, check the results as explaned below. If you want to have more monthly maps just set up the month in section 1, then run all again. The section 2 will not repeat if products were generated previously. To save time!
+### *In Blud Cloud VLab*
+
+Run all cells. The notebook is designed to be run in Blue Cloud VLab. Also, ``Data`` is already set up and loaded properly as explained above. Then, check the results in the directories as explained below. If you want to have more monthly maps just set up a different month in section 1, then run all again. The section 2 will not repeat the process if products were generated previously in ``TRIX_results``. This will save time if are running everything again.
+
+### *Out of Blue Cloud Vlab*
+Start installing the needed Python libraries in your own environment. Then, be sure that the data downloaded from Copernicus Marine Service is properly allocated in the ``Data`` directory. Note! You might need to change the filenames in order to make this notebook run properly.
+
 
 ## *Outputs*
 
