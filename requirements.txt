@@ -9,4 +9,5 @@ matplotlib
 cmocean
 plotly.express
 dash
-# keplergl
+dash-jupyterlab
+keplergl
