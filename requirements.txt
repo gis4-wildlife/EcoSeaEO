@@ -9,4 +9,3 @@ matplotlib
 cmocean
 plotly.express
 dash
-keplergl
